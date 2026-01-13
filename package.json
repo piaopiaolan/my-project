@@ -1,0 +1,12 @@
+{
+  "name": "my-practice-project",
+  "version": "1.0.0",
+  "description": "我的 Git/GitHub 练习项目",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests/test.js",
+    "start": "node src/index.js"
+  },
+  "author": "你的名字",
+  "license": "MIT"
+}
