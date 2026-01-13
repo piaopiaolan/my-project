@@ -7,4 +7,9 @@ function add(a, b) {
   return a + b;
 }
 
-module.exports = { greet, add };
+// 新增：乘法功能
+function multiply(a, b) {
+  return a * b;
+}
+
+module.exports = { greet, add, multiply };
